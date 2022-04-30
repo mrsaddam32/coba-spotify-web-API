@@ -1,0 +1,16 @@
+{
+  "name": "spotify-web-api",
+  "version": "1.0.0",
+  "description": "Spotify Web API with Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neolinedev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
